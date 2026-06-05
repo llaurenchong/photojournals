@@ -1,5 +1,5 @@
 
-welcome to my archive
+welcome to my archive...
 
 ## galleries
 
@@ -8,4 +8,4 @@ welcome to my archive
 
 ## about
 
-love, life, and everything in between :) ...
+my favorite places, people, and everything in between :)
