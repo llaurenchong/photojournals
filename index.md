@@ -9,4 +9,4 @@ welcome to my archive
 
 ## about
 
-love, life, and everything in between :)
+love, life, and everything in between :) ...
