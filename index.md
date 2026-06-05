@@ -1,4 +1,3 @@
-# my life in film
 
 welcome to my archive
 
