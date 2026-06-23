@@ -1,19 +1,19 @@
 *neuschwanstein — may 2025*
 
 <p align="center">
-  <img src="images/neusch-01.jpeg" width="500">
+  <img src="images/neusch-01.jpg" width="500">
 </p>
 
 <p align="center">
-  <img src="images/neusch-02.jpeg" width="500">
+  <img src="images/neusch-02.jpg" width="500">
 </p>
 
 <p align="center">
-  <img src="images/neusch-03.jpeg" width="500">
+  <img src="images/neusch-03.jpg" width="500">
 </p>
 
 <p align="center">
-  <img src="images/neusch-04.jpeg" width="500">
+  <img src="images/neusch-04.jpg" width="500">
 </p>
 
 *tahoe — may 2025*
