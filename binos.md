@@ -1,8 +1,12 @@
 *neuschwanstein — may 2025*
 
-![](/images/neusch-01.jpeg)
+<p align="center">
+  <img src="images/neusch-01.jpeg" width="500">
+</p>
 
-![](/images/neusch-02.jpeg)
+<p align="center">
+  <img src="images/neusch-02.jpeg" width="500">
+</p>
 
 ![](/images/neusch-03.jpeg)
 
