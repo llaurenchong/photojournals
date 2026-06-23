@@ -16,6 +16,10 @@
   <img src="images/neusch-04.JPG" width="700">
 </p>
 <br>
+<p align="center">
+  <img src="images/neusch-05.JPG" width="700">
+</p>
+<br>
 <br>
 *emerald bay, south lake tahoe — may 2025*
 <br>
