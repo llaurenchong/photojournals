@@ -1,4 +1,4 @@
-*neuschwanstein — may 2025*
+*neuschwanstein, germany — may 2025*
 
 <p align="center">
   <img src="images/neusch-01.JPG" width="700">
@@ -17,7 +17,7 @@
 </p>
 <br>
 <br>
-*tahoe — may 2025*
+*emerald bay, south lake tahoe — may 2025*
 <br>
 <p align="center">
   <img src="images/tahoe-01.jpeg" width="700">
@@ -36,14 +36,14 @@
 </p>
 <br>
 <br>
-*sauk mountain — june 2026*
+*sauk mountain, wa — june 2026*
 <br>
 <p align="center">
   <img src="images/baker.jpeg" width="700">
 </p>
 <br>
 <br>
-*anacortes — may 2026*
+*anacortes, wa — may 2026*
 <br>
 <p align="center">
   <img src="images/flowers.jpeg" width="700">
